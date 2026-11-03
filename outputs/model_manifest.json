@@ -1,0 +1,12 @@
+{
+  "clip": "openai/clip-vit-base-patch32",
+  "yolo": "yolo26n.pt",
+  "sam": "sam2.1_b.pt",
+  "yoloe": "yoloe-26s-seg.pt",
+  "pose_optional": "yolo26n-pose.pt",
+  "embedding_shape": [
+    300,
+    512
+  ],
+  "notes": "Model outputs require visual inspection and project-specific validation."
+}
